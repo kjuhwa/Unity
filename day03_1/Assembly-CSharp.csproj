@@ -50,6 +50,7 @@
      <Compile Include="Assets\script\CharControl.cs" />
      <Compile Include="Assets\script\Trap1Control.cs" />
      <Compile Include="Assets\script\Trap2Control.cs" />
+     <Compile Include="Assets\script\WavControl.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

@@ -1,10 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\Trap2Control.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\Trap1Control.cs">
     <Files>
       <File FileName="Assets\script\Trap1Control.cs" Line="27" Column="2" />
-      <File FileName="Assets\script\Trap2Control.cs" Line="21" Column="32" />
-      <File FileName="Assets\script\CharControl.cs" Line="19" Column="17" />
+      <File FileName="Assets\script\Trap2Control.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\CharControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\AudioControl.cs" Line="21" Column="3" />
+      <File FileName="Assets\script\WavControl.cs" Line="19" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
